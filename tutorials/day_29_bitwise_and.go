@@ -18,7 +18,7 @@ func getMax(n, k int) int {
 	return max
 }
 
-func main_bitwise_and() {
+func bitwise_and() {
 	var t, n, k int
 	fmt.Scan(&t)
 
