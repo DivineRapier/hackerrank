@@ -38,7 +38,7 @@ class Difference {
 private:
     int max ;
     int min ;
-    }; // End of Difference class
+}; // End of Difference class
 
 int main() {
     int N;
