@@ -5,23 +5,25 @@ import "sort"
 func cut_the_sticks(length []int) []int {
 	sort.Ints(length)
 	ret := make([]int, 0)
-	ret = append(ret, len(length))
+	remain_cnt := len(length)
+	ret = append(ret, remain_cnt)
 	cnt := 0
-	for i := 0; i < len(length); i++ {
-		if i == 0 {
+	for i := 0; i < len(length) && remain_cnt > 0; i++ {
+		// 如果是第一个 数量直接设置为1
+		switch {
+		case i == 0:
 			cnt = 1
-		} else if i == len(length)-1 {
+		case i == len(length)-1:
 			if length[i] != length[i-1] {
 				ret = append(ret, 1)
-			} else {
-				ret = append(ret, cnt+1)
 			}
-
-		} else if length[i] != length[i-1] {
-			ret = append(ret, cnt)
+		case length[i] != length[i-1]:
+			remain_cnt -= cnt
+			ret = append(ret, remain_cnt)
 			cnt = 1
+		default:
+			cnt++
 		}
-
 	}
 	return ret
 }
