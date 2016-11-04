@@ -30,6 +30,7 @@ Node* findNextNode(Node* head, int offset) {
 
     while (offset > 0) {
         head = head->next;
+        --offset;
     }
     return head;
 }
