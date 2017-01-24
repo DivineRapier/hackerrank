@@ -1,15 +1,18 @@
-package strings
+package main
 
 import "testing"
 
 func TestPangrams(t *testing.T) {
-	if pangrams("We promptly judged antique ivory buckles for the next prize ") != "pangram" {
+	if pangrams([]byte("We promptly judged antique ivory buckles for the next prize ")) != "pangram" {
 		t.Errorf("error")
 	}
-	if pangrams("We promptly judged antique ivory buckles for the prize ") == "pangram" {
+	if pangrams([]byte("We promptly judged antique ivory buckles for the prize ")) != "not pangram" {
 		t.Errorf("error")
 	}
-	if pangrams("We promptly judged antique ivory buckles for the next prize") != "pangram" {
+	if pangrams([]byte("We promptly judged antique ivory buckles for the next prize")) != "pangram" {
+		t.Errorf("error")
+	}
+	if pangrams([]byte("We promptly judged antique ivory buckles for the next prize")) != "pangram" {
 		t.Errorf("error")
 	}
 
