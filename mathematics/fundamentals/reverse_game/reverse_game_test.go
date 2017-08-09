@@ -1,4 +1,4 @@
-package fundamentals
+package reverse_game
 
 import "testing"
 

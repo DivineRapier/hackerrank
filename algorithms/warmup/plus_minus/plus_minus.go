@@ -1,4 +1,4 @@
-package main
+package plus_minus
 
 func plus_minus(arr []int) (float64, float64, float64) {
 	cntpos, cntneg, cntzer := 0, 0, 0

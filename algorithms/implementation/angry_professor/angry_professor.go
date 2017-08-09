@@ -1,4 +1,4 @@
-package implementation
+package angry_professor
 
 // https://www.hackerrank.com/challenges/angry-professor
 

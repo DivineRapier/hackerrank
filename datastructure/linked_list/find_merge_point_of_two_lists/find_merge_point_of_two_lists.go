@@ -1,4 +1,4 @@
-package main
+package find_merge_point_of_two_lists
 
 // https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists
 

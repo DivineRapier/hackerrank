@@ -1,4 +1,4 @@
-package main
+package delete_duplicate_value_nodes_from_a_sorted_linked_list
 
 // https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list
 

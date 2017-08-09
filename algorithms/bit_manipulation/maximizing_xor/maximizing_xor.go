@@ -1,4 +1,4 @@
-package main
+package maximizing_xor
 
 func maximizing_xor(left, right int) int {
 	i := 1 << 31

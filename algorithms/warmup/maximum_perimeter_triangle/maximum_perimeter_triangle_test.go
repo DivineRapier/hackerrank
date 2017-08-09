@@ -1,4 +1,4 @@
-package warmup
+package maximum_perimeter_triangle
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package implementation
+package divisible_sum_pairs
 
 import "testing"
 

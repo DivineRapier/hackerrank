@@ -1,4 +1,4 @@
-package main
+package delete_a_node
 
 //https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list
 

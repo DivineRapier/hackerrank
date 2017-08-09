@@ -1,4 +1,4 @@
-package main
+package handshake
 
 func handshake(n int) int {
 	//Enter your code here. Read input from STDIN. Print output to STDOUT

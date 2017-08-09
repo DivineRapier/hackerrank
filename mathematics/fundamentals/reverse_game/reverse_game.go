@@ -1,4 +1,4 @@
-package main
+package reverse_game
 
 // https://www.hackerrank.com/challenges/reverse-game
 

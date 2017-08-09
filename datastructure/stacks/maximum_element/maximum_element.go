@@ -1,5 +1,4 @@
-package main
-
+package maximum_element
 
 import "fmt"
 

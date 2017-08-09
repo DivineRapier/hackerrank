@@ -1,4 +1,4 @@
-package main
+package sum_vs_xor
 
 import "math"
 

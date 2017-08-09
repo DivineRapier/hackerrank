@@ -1,4 +1,4 @@
-package implementation
+package mini_max_sum
 
 import "testing"
 

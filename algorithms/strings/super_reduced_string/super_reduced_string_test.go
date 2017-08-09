@@ -1,4 +1,4 @@
-package strings
+package super_reduced_string
 
 import "testing"
 

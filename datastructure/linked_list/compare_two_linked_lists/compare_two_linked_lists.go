@@ -1,4 +1,4 @@
-package main
+package compare_two_linked_lists
 
 // https://www.hackerrank.com/challenges/compare-two-linked-lists
 

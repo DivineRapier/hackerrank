@@ -1,4 +1,4 @@
-package main
+package insertion_sort_partII
 
 func insertion_sort_partII(arr []int) [][]int {
 	ret := make([][]int, 0)

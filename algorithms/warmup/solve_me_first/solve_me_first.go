@@ -1,4 +1,4 @@
-package main
+package solve_me_first
 
 /*
 Welcome to HackerRank! The purpose of this challenge is to familiarize you with reading input from stdin (the standard input stream) and writing output to stdout (the standard output stream) using our environment.

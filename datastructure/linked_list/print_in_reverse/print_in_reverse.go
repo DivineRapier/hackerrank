@@ -1,4 +1,4 @@
-package main
+package print_in_reverse
 
 /*
   Print elements of a linked list in reverse order as standard output

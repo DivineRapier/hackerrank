@@ -1,4 +1,4 @@
-package main
+package camelcase
 
 // https://www.hackerrank.com/challenges/camelcase
 

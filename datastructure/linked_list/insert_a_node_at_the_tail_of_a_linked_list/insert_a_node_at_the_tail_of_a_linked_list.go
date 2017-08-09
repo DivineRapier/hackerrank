@@ -1,4 +1,4 @@
-package main
+package insert_a_node_at_the_tail_of_a_linked_list
 
 //https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list
 

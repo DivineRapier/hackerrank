@@ -1,4 +1,4 @@
-package sort
+package insertion_sort_partI
 
 import "testing"
 

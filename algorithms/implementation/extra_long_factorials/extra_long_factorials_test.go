@@ -1,4 +1,4 @@
-package implementation
+package extra_long_factorials
 
 import "testing"
 

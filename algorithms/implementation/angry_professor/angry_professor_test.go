@@ -1,4 +1,4 @@
-package implementation
+package angry_professor
 
 import "testing"
 

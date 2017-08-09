@@ -1,4 +1,4 @@
-package main
+package intro_to_tutorial_challenges
 
 func intro_to_tutorial_challenges(arr []int, target int) int {
 	a, b := 0, len(arr)

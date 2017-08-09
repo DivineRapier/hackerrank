@@ -1,4 +1,4 @@
-package main
+package strange_grid_again
 
 /*
 

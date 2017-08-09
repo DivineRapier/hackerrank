@@ -1,4 +1,4 @@
-package main
+package sherlock_and_watson
 
 // https://www.hackerrank.com/challenges/circular-array-rotation
 

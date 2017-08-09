@@ -1,4 +1,4 @@
-package main
+package compare_the_triplets
 
 // https://www.hackerrank.com/challenges/compare-the-triplets?h_r=next-challenge&h_v=zen
 

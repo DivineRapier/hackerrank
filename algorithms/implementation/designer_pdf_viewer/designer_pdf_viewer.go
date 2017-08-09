@@ -1,4 +1,4 @@
-package main
+package designer_pdf_viewer
 
 func contiguous_block_area(height []int, chars []byte) int {
 

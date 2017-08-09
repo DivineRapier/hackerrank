@@ -1,4 +1,4 @@
-package main
+package reverse_a_doubly_linked_list
 
 /*
    Reverse a doubly linked list, input list may also be empty

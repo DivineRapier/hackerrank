@@ -1,4 +1,4 @@
-package main
+package super_reduced_string
 
 // https://www.hackerrank.com/challenges/reduced-string
 

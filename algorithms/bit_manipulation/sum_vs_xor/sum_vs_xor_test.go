@@ -1,4 +1,4 @@
-package bit_manipulation
+package sum_vs_xor
 
 import "testing"
 

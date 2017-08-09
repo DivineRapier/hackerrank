@@ -1,4 +1,4 @@
-package main
+package cut_the_sticks
 
 import "sort"
 

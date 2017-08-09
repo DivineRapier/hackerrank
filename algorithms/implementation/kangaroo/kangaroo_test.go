@@ -1,4 +1,4 @@
-package implementation
+package kangaroo
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package main
+package reverse_a_linked_list
 
 /*
   Reverse a linked list and return pointer to the head

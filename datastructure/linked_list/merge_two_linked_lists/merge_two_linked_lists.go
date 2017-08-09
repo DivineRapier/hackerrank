@@ -1,4 +1,4 @@
-package main
+package merge_two_linked_lists
 
 // https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists
 

@@ -1,4 +1,4 @@
-package main
+package simple_array_sum
 
 /*
 
@@ -6,7 +6,7 @@ Given an array of N integers, can you find the sum of its elements?
 
 Input Format
 
-The first line contains an integer,N , denoting the size of the array. 
+The first line contains an integer,N , denoting the size of the array.
 The second line contains N space-separated integers representing the array's elements.
 
 Output Format
@@ -27,9 +27,9 @@ We print the sum of the array's elements, which is: 1 + 2 + 3 + 4 + 10 + 11 = 31
 */
 
 func arraySum(arr []int) int {
-    sum := 0
-    for _, v := range arr {
-        sum += v
-    }
-    return sum
+	sum := 0
+	for _, v := range arr {
+		sum += v
+	}
+	return sum
 }

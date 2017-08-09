@@ -1,4 +1,4 @@
-package cracking_the_coding_interview
+package arrays_left_rotation
 
 import "testing"
 

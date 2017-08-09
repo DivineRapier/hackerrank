@@ -1,4 +1,4 @@
-package warmup
+package sherlock_and_watson
 
 import "testing"
 

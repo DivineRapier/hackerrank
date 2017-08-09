@@ -1,4 +1,4 @@
-package main
+package arrays_left_rotation
 
 /*
 5 4

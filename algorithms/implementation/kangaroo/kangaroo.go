@@ -1,4 +1,4 @@
-package main
+package kangaroo
 
 func kangaroo(x1, v1, x2, v2 int) bool {
 	if v1 == v2 {

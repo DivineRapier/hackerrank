@@ -1,4 +1,4 @@
-package main
+package sock_merchant
 
 import "sort"
 

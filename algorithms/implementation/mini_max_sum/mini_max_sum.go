@@ -1,4 +1,4 @@
-package main
+package mini_max_sum
 
 func mini_max_sum(nums []uint64) (uint64, uint64) {
 

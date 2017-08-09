@@ -1,4 +1,4 @@
-package main
+package divisible_sum_pairs
 
 // https://www.hackerrank.com/challenges/divisible-sum-pairs
 

@@ -1,2 +1,2 @@
-package warmup
+package simple_array_sum
 

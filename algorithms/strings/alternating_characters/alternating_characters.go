@@ -1,4 +1,4 @@
-package strings
+package alternating_characters
 
 func alternating_characters(str string) int {
 	cnt := 0

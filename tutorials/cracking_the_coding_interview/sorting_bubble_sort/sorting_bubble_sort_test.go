@@ -1,4 +1,4 @@
-package cracking_the_coding_interview
+package sorting_bubble_sort
 
 import "testing"
 

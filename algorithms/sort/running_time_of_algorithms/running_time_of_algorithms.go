@@ -1,4 +1,4 @@
-package main
+package running_time_of_algorithms
 
 func running_time_of_algorithms(arr []int) int {
 	cnt := 0

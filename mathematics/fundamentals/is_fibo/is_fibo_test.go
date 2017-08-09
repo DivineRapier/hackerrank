@@ -1,4 +1,4 @@
-package fundamentals
+package is_fibo
 
 // func TestIsFibo(t *testing.T) {
 // 	// if a := int64(7778742049); !is_fibo(a) {

@@ -1,4 +1,4 @@
-package fundamentals
+package summing_the_N_series
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package main
+package bit_manipulation
 
 func lonely_integer(nums []int) int {
 	lnum := 0

@@ -1,4 +1,4 @@
-package implementation
+package cut_the_sticks
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package main
+package print_the_elements_of_a_linked_list
 
 // https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list
 

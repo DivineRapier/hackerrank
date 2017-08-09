@@ -1,2 +1,2 @@
-package warmup
+package compare_the_triplets
 

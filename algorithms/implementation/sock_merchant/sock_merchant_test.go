@@ -1,4 +1,4 @@
-package implementation
+package sock_merchant
 
 import "testing"
 

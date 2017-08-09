@@ -1,1 +1,1 @@
-package warmup
+package diagonal_difference

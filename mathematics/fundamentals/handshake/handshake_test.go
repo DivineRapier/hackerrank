@@ -1,4 +1,4 @@
-package fundamentals
+package handshake
 
 import "testing"
 

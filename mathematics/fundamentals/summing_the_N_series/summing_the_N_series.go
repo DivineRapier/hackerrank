@@ -1,4 +1,4 @@
-package main
+package summing_the_N_series
 
 import "fmt"
 

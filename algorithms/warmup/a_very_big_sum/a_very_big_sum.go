@@ -1,4 +1,4 @@
-package main
+package a_very_big_sum
 
 // https://www.hackerrank.com/challenges/a-very-big-sum?h_r=next-challenge&h_v=zen
 

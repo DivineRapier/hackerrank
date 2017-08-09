@@ -1,4 +1,4 @@
-package main
+package extra_long_factorials
 
 import (
 	"math/big"

@@ -1,4 +1,4 @@
-package bit_manipulation
+package maximizing_xor
 
 import "testing"
 

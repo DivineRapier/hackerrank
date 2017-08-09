@@ -1,4 +1,4 @@
-package main
+package insert_a_node_at_the_head_of_a_linked_list
 
 //https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list
 
@@ -19,7 +19,7 @@ Node* Insert(Node *head,int data)
   // Complete this method
   if (!head) {
       head = (Node*)malloc(sizeof(Node));
-      head->data = data; 
+      head->data = data;
       head->next = NULL;
       return head;
   }

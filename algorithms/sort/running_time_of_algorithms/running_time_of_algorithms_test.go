@@ -1,4 +1,4 @@
-package sort
+package running_time_of_algorithms
 
 import "testing"
 

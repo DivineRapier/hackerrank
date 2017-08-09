@@ -1,4 +1,4 @@
-package main
+package insert_a_node_at_a_specific_position_in_a_linked_list
 
 //https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list
 
